@@ -13,15 +13,15 @@ The game features classic fighting mechanics tailored for quick and engaging mat
 * **Customization:** Players can choose their character's ink color before jumping into the fray.
 * **Match Format:** Matches are played in a "Best of 3" format.
 
-![menu-color-selection](screenshots\ink-fights-end.png)  
+![menu-color-selection](screenshots/ink-fights-end.png)  
 *Character customization*
 
-![gameplay](screenshots\ink-fights-gameplay.gif)  
+![gameplay](screenshots/ink-fights-gameplay.gif)  
 *Gameplay*
 
 Upon the conclusion of a fight, a results screen is displayed, allowing players to review the match outcome and seamlessly return to the main menu for the next battle.
 
-![match-results](screenshots\ink-fights-menu.png)  
+![match-results](screenshots/ink-fights-menu.png)  
 *Post-match results screen*
 
 ---
